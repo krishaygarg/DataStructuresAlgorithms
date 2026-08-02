@@ -1,0 +1,93 @@
+name: Update README Index
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'Data Structures & Algorithms/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate README
+        run: |
+          python3 -c '
+          import os, urllib.parse
+          base_dir = "Data Structures & Algorithms"
+          if not os.path.exists(base_dir):
+              print("Base directory does not exist")
+              exit(0)
+          folders = sorted([f for f in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, f))])
+          index_md = []
+          for folder in folders:
+              clean_name = " ".join([word.capitalize() for word in folder.split("-")])
+              url_path = "./Data%20Structures%20%26%20Algorithms/" + urllib.parse.quote(folder)
+              index_md.append(f"*   [{clean_name}]({url_path})")
+          index_content = "\n".join(index_md)
+          
+          readme_template = f"""# Data Structures & Algorithms
+
+A curated archive of solutions to classical data structures and algorithms problems.
+
+---
+
+## 📈 Progress Tracker
+*   **Total Problems Solved**: {len(folders)}
+
+---
+
+## 📂 Repository Layout
+All solutions are written in Python and organized by problem identifier:
+```
+Data Structures & Algorithms/
+  <problem-id>/
+    submission-0.py   ← Accepted Solution
+```
+
+---
+
+## 🗺️ Solved Problems Index
+
+{index_content}
+
+---
+
+## ⚙️ Running Locally
+You can run any solution file directly using Python:
+```bash
+python3 \"Data Structures & Algorithms/<problem-id>/submission-0.py\"
+```
+
+---
+
+*Synced automatically from [NeetCode.io](https://neetcode.io) using the GitHub Sync integration.*
+"""
+          with open("README.md", "w") as f:
+              f.write(readme_template)
+          '
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update README index and progress counter [skip ci]"
+            git push origin HEAD
+          else
+            echo "No changes in README.md"
+          fi

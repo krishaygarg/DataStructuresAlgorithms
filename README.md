@@ -1,72 +1,101 @@
-# NeetCode Solutions — @krishaygarg
+# Data Structures & Algorithms
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-
----
-
-## What is this?
-
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+A curated archive of solutions to classical data structures and algorithms problems.
 
 ---
 
-## How GitHub Sync works
-
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+## 📈 Progress Tracker
+*   **Total Problems Solved**: 66
 
 ---
 
-## Repository structure
-
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
-
+## 📂 Repository Layout
+All solutions are written in Python and organized by problem identifier:
 ```
-<topic-folder>/
+Data Structures & Algorithms/
   <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
-
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
+    submission-0.py   ← Accepted Solution
 ```
 
 ---
 
-## Supported languages
+## 🗺️ Solved Problems Index
 
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+*   [Anagram Groups](./Data%20Structures%20%26%20Algorithms/anagram-groups)
+*   [Balanced Binary Tree](./Data%20Structures%20%26%20Algorithms/balanced-binary-tree)
+*   [Binary Tree Maximum Path Sum](./Data%20Structures%20%26%20Algorithms/binary-tree-maximum-path-sum)
+*   [Buy And Sell Crypto](./Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto)
+*   [Car Fleet](./Data%20Structures%20%26%20Algorithms/car-fleet)
+*   [Climbing Stairs](./Data%20Structures%20%26%20Algorithms/climbing-stairs)
+*   [Count Connected Components](./Data%20Structures%20%26%20Algorithms/count-connected-components)
+*   [Count Good Nodes In Binary Tree](./Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree)
+*   [Counting Bits](./Data%20Structures%20%26%20Algorithms/counting-bits)
+*   [Daily Temperatures](./Data%20Structures%20%26%20Algorithms/daily-temperatures)
+*   [Depth Of Binary Tree](./Data%20Structures%20%26%20Algorithms/depth-of-binary-tree)
+*   [Design Circular Queue](./Data%20Structures%20%26%20Algorithms/design-circular-queue)
+*   [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer)
+*   [Eating Bananas](./Data%20Structures%20%26%20Algorithms/eating-bananas)
+*   [Evaluate Reverse Polish Notation](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation)
+*   [Foreign Dictionary](./Data%20Structures%20%26%20Algorithms/foreign-dictionary)
+*   [Hand Of Straights](./Data%20Structures%20%26%20Algorithms/hand-of-straights)
+*   [House Robber](./Data%20Structures%20%26%20Algorithms/house-robber)
+*   [House Robber Ii](./Data%20Structures%20%26%20Algorithms/house-robber-ii)
+*   [Insert New Interval](./Data%20Structures%20%26%20Algorithms/insert-new-interval)
+*   [Interleaving String](./Data%20Structures%20%26%20Algorithms/interleaving-string)
+*   [Invert A Binary Tree](./Data%20Structures%20%26%20Algorithms/invert-a-binary-tree)
+*   [Is Anagram](./Data%20Structures%20%26%20Algorithms/is-anagram)
+*   [Jump Game](./Data%20Structures%20%26%20Algorithms/jump-game)
+*   [Jump Game Ii](./Data%20Structures%20%26%20Algorithms/jump-game-ii)
+*   [K Closest Points To Origin](./Data%20Structures%20%26%20Algorithms/k-closest-points-to-origin)
+*   [Kth Largest Element In An Array](./Data%20Structures%20%26%20Algorithms/kth-largest-element-in-an-array)
+*   [Kth Smallest Integer In Bst](./Data%20Structures%20%26%20Algorithms/kth-smallest-integer-in-bst)
+*   [Last Stone Weight](./Data%20Structures%20%26%20Algorithms/last-stone-weight)
+*   [Level Order Traversal Of Binary Tree](./Data%20Structures%20%26%20Algorithms/level-order-traversal-of-binary-tree)
+*   [Linked List Cycle Detection](./Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection)
+*   [Longest Consecutive Sequence](./Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence)
+*   [Longest Palindromic Substring](./Data%20Structures%20%26%20Algorithms/longest-palindromic-substring)
+*   [Longest Repeating Substring With Replacement](./Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement)
+*   [Longest Substring Without Duplicates](./Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates)
+*   [Max Water Container](./Data%20Structures%20%26%20Algorithms/max-water-container)
+*   [Maximum Subarray](./Data%20Structures%20%26%20Algorithms/maximum-subarray)
+*   [Meeting Schedule](./Data%20Structures%20%26%20Algorithms/meeting-schedule)
+*   [Meeting Schedule Ii](./Data%20Structures%20%26%20Algorithms/meeting-schedule-ii)
+*   [Merge Intervals](./Data%20Structures%20%26%20Algorithms/merge-intervals)
+*   [Merge K Sorted Linked Lists](./Data%20Structures%20%26%20Algorithms/merge-k-sorted-linked-lists)
+*   [Merge Triplets To Form Target](./Data%20Structures%20%26%20Algorithms/merge-triplets-to-form-target)
+*   [Min Cost Climbing Stairs](./Data%20Structures%20%26%20Algorithms/min-cost-climbing-stairs)
+*   [Minimum Interval Including Query](./Data%20Structures%20%26%20Algorithms/minimum-interval-including-query)
+*   [Minimum Stack](./Data%20Structures%20%26%20Algorithms/minimum-stack)
+*   [Missing Number](./Data%20Structures%20%26%20Algorithms/missing-number)
+*   [Non Cyclical Number](./Data%20Structures%20%26%20Algorithms/non-cyclical-number)
+*   [Non Overlapping Intervals](./Data%20Structures%20%26%20Algorithms/non-overlapping-intervals)
+*   [Number Of One Bits](./Data%20Structures%20%26%20Algorithms/number-of-one-bits)
+*   [Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold](./Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)
+*   [Pacific Atlantic Water Flow](./Data%20Structures%20%26%20Algorithms/pacific-atlantic-water-flow)
+*   [Palindromic Substrings](./Data%20Structures%20%26%20Algorithms/palindromic-substrings)
+*   [Partition Labels](./Data%20Structures%20%26%20Algorithms/partition-labels)
+*   [Permutation String](./Data%20Structures%20%26%20Algorithms/permutation-string)
+*   [Plus One](./Data%20Structures%20%26%20Algorithms/plus-one)
+*   [Pow X N](./Data%20Structures%20%26%20Algorithms/pow-x-n)
+*   [Products Of Array Discluding Self](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self)
+*   [Remove Node From End Of Linked List](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list)
+*   [Same Binary Tree](./Data%20Structures%20%26%20Algorithms/same-binary-tree)
+*   [Single Number](./Data%20Structures%20%26%20Algorithms/single-number)
+*   [String Encode And Decode](./Data%20Structures%20%26%20Algorithms/string-encode-and-decode)
+*   [Top K Elements In List](./Data%20Structures%20%26%20Algorithms/top-k-elements-in-list)
+*   [Two Integer Sum Ii](./Data%20Structures%20%26%20Algorithms/two-integer-sum-ii)
+*   [Valid Binary Search Tree](./Data%20Structures%20%26%20Algorithms/valid-binary-search-tree)
+*   [Valid Sudoku](./Data%20Structures%20%26%20Algorithms/valid-sudoku)
+*   [Valid Tree](./Data%20Structures%20%26%20Algorithms/valid-tree)
 
 ---
 
-## Settings
-
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
-
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+## ⚙️ Running Locally
+You can run any solution file directly using Python:
+```bash
+python3 "Data Structures & Algorithms/<problem-id>/submission-0.py"
+```
 
 ---
 
-*Generated by [NeetCode GitHub Integration](https://neetcode.io)*
+*Synced automatically from [NeetCode.io](https://neetcode.io) using the GitHub Sync integration.*

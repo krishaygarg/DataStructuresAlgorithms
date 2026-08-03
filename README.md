@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 67
+*   **Total Problems Solved**: 68
 
 ---
 
@@ -75,6 +75,7 @@ Data Structures & Algorithms/
 *   [Palindromic Substrings](./Data%20Structures%20%26%20Algorithms/palindromic-substrings)
 *   [Partition Labels](./Data%20Structures%20%26%20Algorithms/partition-labels)
 *   [Permutation String](./Data%20Structures%20%26%20Algorithms/permutation-string)
+*   [Permutations](./Data%20Structures%20%26%20Algorithms/permutations)
 *   [Plus One](./Data%20Structures%20%26%20Algorithms/plus-one)
 *   [Pow X N](./Data%20Structures%20%26%20Algorithms/pow-x-n)
 *   [Products Of Array Discluding Self](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self)

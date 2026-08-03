@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 72
+*   **Total Problems Solved**: 73
 
 ---
 
@@ -39,6 +39,7 @@ Data Structures & Algorithms/
 *   [Eating Bananas](./Data%20Structures%20%26%20Algorithms/eating-bananas)
 *   [Evaluate Reverse Polish Notation](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation)
 *   [Foreign Dictionary](./Data%20Structures%20%26%20Algorithms/foreign-dictionary)
+*   [Generate Parentheses](./Data%20Structures%20%26%20Algorithms/generate-parentheses)
 *   [Hand Of Straights](./Data%20Structures%20%26%20Algorithms/hand-of-straights)
 *   [House Robber](./Data%20Structures%20%26%20Algorithms/house-robber)
 *   [House Robber Ii](./Data%20Structures%20%26%20Algorithms/house-robber-ii)

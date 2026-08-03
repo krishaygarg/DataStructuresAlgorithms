@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 76
+*   **Total Problems Solved**: 77
 
 ---
 
@@ -86,6 +86,7 @@ Data Structures & Algorithms/
 *   [Pow X N](./Data%20Structures%20%26%20Algorithms/pow-x-n)
 *   [Products Of Array Discluding Self](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self)
 *   [Remove Node From End Of Linked List](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list)
+*   [Reverse Bits](./Data%20Structures%20%26%20Algorithms/reverse-bits)
 *   [Same Binary Tree](./Data%20Structures%20%26%20Algorithms/same-binary-tree)
 *   [Search 2d Matrix](./Data%20Structures%20%26%20Algorithms/search-2d-matrix)
 *   [Single Number](./Data%20Structures%20%26%20Algorithms/single-number)

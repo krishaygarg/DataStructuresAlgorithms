@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 71
+*   **Total Problems Solved**: 72
 
 ---
 
@@ -32,6 +32,7 @@ Data Structures & Algorithms/
 *   [Count Good Nodes In Binary Tree](./Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree)
 *   [Counting Bits](./Data%20Structures%20%26%20Algorithms/counting-bits)
 *   [Daily Temperatures](./Data%20Structures%20%26%20Algorithms/daily-temperatures)
+*   [Decode Ways](./Data%20Structures%20%26%20Algorithms/decode-ways)
 *   [Depth Of Binary Tree](./Data%20Structures%20%26%20Algorithms/depth-of-binary-tree)
 *   [Design Circular Queue](./Data%20Structures%20%26%20Algorithms/design-circular-queue)
 *   [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer)

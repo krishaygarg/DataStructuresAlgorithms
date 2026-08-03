@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 70
+*   **Total Problems Solved**: 71
 
 ---
 
@@ -82,6 +82,7 @@ Data Structures & Algorithms/
 *   [Products Of Array Discluding Self](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self)
 *   [Remove Node From End Of Linked List](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list)
 *   [Same Binary Tree](./Data%20Structures%20%26%20Algorithms/same-binary-tree)
+*   [Search 2d Matrix](./Data%20Structures%20%26%20Algorithms/search-2d-matrix)
 *   [Single Number](./Data%20Structures%20%26%20Algorithms/single-number)
 *   [String Encode And Decode](./Data%20Structures%20%26%20Algorithms/string-encode-and-decode)
 *   [Subsets](./Data%20Structures%20%26%20Algorithms/subsets)

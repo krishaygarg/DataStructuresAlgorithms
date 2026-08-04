@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 81
+*   **Total Problems Solved**: 82
 
 ---
 
@@ -102,6 +102,7 @@ Data Structures & Algorithms/
 *   [Valid Binary Search Tree](./Data%20Structures%20%26%20Algorithms/valid-binary-search-tree)
 *   [Valid Sudoku](./Data%20Structures%20%26%20Algorithms/valid-sudoku)
 *   [Valid Tree](./Data%20Structures%20%26%20Algorithms/valid-tree)
+*   [Word Break](./Data%20Structures%20%26%20Algorithms/word-break)
 
 ---
 

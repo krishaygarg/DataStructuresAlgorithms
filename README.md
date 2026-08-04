@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 82
+*   **Total Problems Solved**: 83
 
 ---
 
@@ -54,6 +54,7 @@ Data Structures & Algorithms/
 *   [Jump Game Ii](./Data%20Structures%20%26%20Algorithms/jump-game-ii)
 *   [K Closest Points To Origin](./Data%20Structures%20%26%20Algorithms/k-closest-points-to-origin)
 *   [Kth Largest Element In An Array](./Data%20Structures%20%26%20Algorithms/kth-largest-element-in-an-array)
+*   [Kth Largest Integer In A Stream](./Data%20Structures%20%26%20Algorithms/kth-largest-integer-in-a-stream)
 *   [Kth Smallest Integer In Bst](./Data%20Structures%20%26%20Algorithms/kth-smallest-integer-in-bst)
 *   [Last Stone Weight](./Data%20Structures%20%26%20Algorithms/last-stone-weight)
 *   [Level Order Traversal Of Binary Tree](./Data%20Structures%20%26%20Algorithms/level-order-traversal-of-binary-tree)

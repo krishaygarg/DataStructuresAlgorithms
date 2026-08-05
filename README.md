@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 91
+*   **Total Problems Solved**: 92
 
 ---
 
@@ -87,6 +87,7 @@ Data Structures & Algorithms/
 *   [Number Of One Bits](./Data%20Structures%20%26%20Algorithms/number-of-one-bits)
 *   [Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold](./Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)
 *   [Pacific Atlantic Water Flow](./Data%20Structures%20%26%20Algorithms/pacific-atlantic-water-flow)
+*   [Palindrome Partitioning](./Data%20Structures%20%26%20Algorithms/palindrome-partitioning)
 *   [Palindromic Substrings](./Data%20Structures%20%26%20Algorithms/palindromic-substrings)
 *   [Partition Labels](./Data%20Structures%20%26%20Algorithms/partition-labels)
 *   [Permutation String](./Data%20Structures%20%26%20Algorithms/permutation-string)

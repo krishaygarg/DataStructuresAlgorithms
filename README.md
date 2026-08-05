@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 83
+*   **Total Problems Solved**: 84
 
 ---
 
@@ -33,6 +33,7 @@ Data Structures & Algorithms/
 *   [Combination Target Sum Ii](./Data%20Structures%20%26%20Algorithms/combination-target-sum-ii)
 *   [Count Connected Components](./Data%20Structures%20%26%20Algorithms/count-connected-components)
 *   [Count Good Nodes In Binary Tree](./Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree)
+*   [Count Squares](./Data%20Structures%20%26%20Algorithms/count-squares)
 *   [Counting Bits](./Data%20Structures%20%26%20Algorithms/counting-bits)
 *   [Daily Temperatures](./Data%20Structures%20%26%20Algorithms/daily-temperatures)
 *   [Decode Ways](./Data%20Structures%20%26%20Algorithms/decode-ways)

@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 90
+*   **Total Problems Solved**: 91
 
 ---
 
@@ -104,6 +104,7 @@ Data Structures & Algorithms/
 *   [String Encode And Decode](./Data%20Structures%20%26%20Algorithms/string-encode-and-decode)
 *   [Subsets](./Data%20Structures%20%26%20Algorithms/subsets)
 *   [Subsets Ii](./Data%20Structures%20%26%20Algorithms/subsets-ii)
+*   [Subtree Of A Binary Tree](./Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree)
 *   [Three Integer Sum](./Data%20Structures%20%26%20Algorithms/three-integer-sum)
 *   [Top K Elements In List](./Data%20Structures%20%26%20Algorithms/top-k-elements-in-list)
 *   [Two Integer Sum Ii](./Data%20Structures%20%26%20Algorithms/two-integer-sum-ii)

@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 86
+*   **Total Problems Solved**: 87
 
 ---
 
@@ -40,6 +40,7 @@ Data Structures & Algorithms/
 *   [Decode Ways](./Data%20Structures%20%26%20Algorithms/decode-ways)
 *   [Depth Of Binary Tree](./Data%20Structures%20%26%20Algorithms/depth-of-binary-tree)
 *   [Design Circular Queue](./Data%20Structures%20%26%20Algorithms/design-circular-queue)
+*   [Design Word Search Data Structure](./Data%20Structures%20%26%20Algorithms/design-word-search-data-structure)
 *   [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer)
 *   [Eating Bananas](./Data%20Structures%20%26%20Algorithms/eating-bananas)
 *   [Evaluate Reverse Polish Notation](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation)

@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 85
+*   **Total Problems Solved**: 86
 
 ---
 
@@ -25,6 +25,7 @@ Data Structures & Algorithms/
 *   [Balanced Binary Tree](./Data%20Structures%20%26%20Algorithms/balanced-binary-tree)
 *   [Binary Search](./Data%20Structures%20%26%20Algorithms/binary-search)
 *   [Binary Tree Maximum Path Sum](./Data%20Structures%20%26%20Algorithms/binary-tree-maximum-path-sum)
+*   [Binary Tree Right Side View](./Data%20Structures%20%26%20Algorithms/binary-tree-right-side-view)
 *   [Buy And Sell Crypto](./Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto)
 *   [Car Fleet](./Data%20Structures%20%26%20Algorithms/car-fleet)
 *   [Climbing Stairs](./Data%20Structures%20%26%20Algorithms/climbing-stairs)

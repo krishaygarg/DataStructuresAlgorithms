@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 92
+*   **Total Problems Solved**: 93
 
 ---
 
@@ -45,6 +45,7 @@ Data Structures & Algorithms/
 *   [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer)
 *   [Eating Bananas](./Data%20Structures%20%26%20Algorithms/eating-bananas)
 *   [Evaluate Reverse Polish Notation](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation)
+*   [Find Duplicate Integer](./Data%20Structures%20%26%20Algorithms/find-duplicate-integer)
 *   [Foreign Dictionary](./Data%20Structures%20%26%20Algorithms/foreign-dictionary)
 *   [Generate Parentheses](./Data%20Structures%20%26%20Algorithms/generate-parentheses)
 *   [Hand Of Straights](./Data%20Structures%20%26%20Algorithms/hand-of-straights)

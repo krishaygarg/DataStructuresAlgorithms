@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 96
+*   **Total Problems Solved**: 97
 
 ---
 
@@ -56,6 +56,7 @@ Data Structures & Algorithms/
 *   [Interleaving String](./Data%20Structures%20%26%20Algorithms/interleaving-string)
 *   [Invert A Binary Tree](./Data%20Structures%20%26%20Algorithms/invert-a-binary-tree)
 *   [Is Anagram](./Data%20Structures%20%26%20Algorithms/is-anagram)
+*   [Islands And Treasure](./Data%20Structures%20%26%20Algorithms/islands-and-treasure)
 *   [Jump Game](./Data%20Structures%20%26%20Algorithms/jump-game)
 *   [Jump Game Ii](./Data%20Structures%20%26%20Algorithms/jump-game-ii)
 *   [K Closest Points To Origin](./Data%20Structures%20%26%20Algorithms/k-closest-points-to-origin)

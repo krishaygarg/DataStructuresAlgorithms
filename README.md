@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 94
+*   **Total Problems Solved**: 95
 
 ---
 
@@ -72,6 +72,7 @@ Data Structures & Algorithms/
 *   [Longest Repeating Substring With Replacement](./Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement)
 *   [Longest Substring Without Duplicates](./Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates)
 *   [Lru Cache](./Data%20Structures%20%26%20Algorithms/lru-cache)
+*   [Max Area Of Island](./Data%20Structures%20%26%20Algorithms/max-area-of-island)
 *   [Max Water Container](./Data%20Structures%20%26%20Algorithms/max-water-container)
 *   [Maximum Product Subarray](./Data%20Structures%20%26%20Algorithms/maximum-product-subarray)
 *   [Maximum Subarray](./Data%20Structures%20%26%20Algorithms/maximum-subarray)

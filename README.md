@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 97
+*   **Total Problems Solved**: 98
 
 ---
 
@@ -102,6 +102,7 @@ Data Structures & Algorithms/
 *   [Remove Node From End Of Linked List](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list)
 *   [Reorder Linked List](./Data%20Structures%20%26%20Algorithms/reorder-linked-list)
 *   [Reverse Bits](./Data%20Structures%20%26%20Algorithms/reverse-bits)
+*   [Rotting Fruit](./Data%20Structures%20%26%20Algorithms/rotting-fruit)
 *   [Same Binary Tree](./Data%20Structures%20%26%20Algorithms/same-binary-tree)
 *   [Search 2d Matrix](./Data%20Structures%20%26%20Algorithms/search-2d-matrix)
 *   [Search For Word](./Data%20Structures%20%26%20Algorithms/search-for-word)

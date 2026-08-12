@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 98
+*   **Total Problems Solved**: 99
 
 ---
 
@@ -85,6 +85,7 @@ Data Structures & Algorithms/
 *   [Min Cost Climbing Stairs](./Data%20Structures%20%26%20Algorithms/min-cost-climbing-stairs)
 *   [Minimum Interval Including Query](./Data%20Structures%20%26%20Algorithms/minimum-interval-including-query)
 *   [Minimum Stack](./Data%20Structures%20%26%20Algorithms/minimum-stack)
+*   [Minimum Window With Characters](./Data%20Structures%20%26%20Algorithms/minimum-window-with-characters)
 *   [Missing Number](./Data%20Structures%20%26%20Algorithms/missing-number)
 *   [Non Cyclical Number](./Data%20Structures%20%26%20Algorithms/non-cyclical-number)
 *   [Non Overlapping Intervals](./Data%20Structures%20%26%20Algorithms/non-overlapping-intervals)

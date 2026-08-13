@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 104
+*   **Total Problems Solved**: 105
 
 ---
 
@@ -29,6 +29,7 @@ Data Structures & Algorithms/
 *   [Buy And Sell Crypto](./Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto)
 *   [Car Fleet](./Data%20Structures%20%26%20Algorithms/car-fleet)
 *   [Climbing Stairs](./Data%20Structures%20%26%20Algorithms/climbing-stairs)
+*   [Clone Graph](./Data%20Structures%20%26%20Algorithms/clone-graph)
 *   [Coin Change](./Data%20Structures%20%26%20Algorithms/coin-change)
 *   [Combination Target Sum](./Data%20Structures%20%26%20Algorithms/combination-target-sum)
 *   [Combination Target Sum Ii](./Data%20Structures%20%26%20Algorithms/combination-target-sum-ii)

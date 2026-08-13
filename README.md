@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 105
+*   **Total Problems Solved**: 106
 
 ---
 
@@ -34,6 +34,7 @@ Data Structures & Algorithms/
 *   [Combination Target Sum](./Data%20Structures%20%26%20Algorithms/combination-target-sum)
 *   [Combination Target Sum Ii](./Data%20Structures%20%26%20Algorithms/combination-target-sum-ii)
 *   [Combinations Of A Phone Number](./Data%20Structures%20%26%20Algorithms/combinations-of-a-phone-number)
+*   [Copy Linked List With Random Pointer](./Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer)
 *   [Count Connected Components](./Data%20Structures%20%26%20Algorithms/count-connected-components)
 *   [Count Good Nodes In Binary Tree](./Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree)
 *   [Count Number Of Islands](./Data%20Structures%20%26%20Algorithms/count-number-of-islands)

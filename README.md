@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 110
+*   **Total Problems Solved**: 111
 
 ---
 
@@ -94,6 +94,7 @@ Data Structures & Algorithms/
 *   [Minimum Stack](./Data%20Structures%20%26%20Algorithms/minimum-stack)
 *   [Minimum Window With Characters](./Data%20Structures%20%26%20Algorithms/minimum-window-with-characters)
 *   [Missing Number](./Data%20Structures%20%26%20Algorithms/missing-number)
+*   [Multiply Strings](./Data%20Structures%20%26%20Algorithms/multiply-strings)
 *   [Non Cyclical Number](./Data%20Structures%20%26%20Algorithms/non-cyclical-number)
 *   [Non Overlapping Intervals](./Data%20Structures%20%26%20Algorithms/non-overlapping-intervals)
 *   [Number Of One Bits](./Data%20Structures%20%26%20Algorithms/number-of-one-bits)

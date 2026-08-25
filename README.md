@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 111
+*   **Total Problems Solved**: 112
 
 ---
 
@@ -49,6 +49,7 @@ Data Structures & Algorithms/
 *   [Design Word Search Data Structure](./Data%20Structures%20%26%20Algorithms/design-word-search-data-structure)
 *   [Duplicate Integer](./Data%20Structures%20%26%20Algorithms/duplicate-integer)
 *   [Eating Bananas](./Data%20Structures%20%26%20Algorithms/eating-bananas)
+*   [Edit Distance](./Data%20Structures%20%26%20Algorithms/edit-distance)
 *   [Evaluate Reverse Polish Notation](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation)
 *   [Find Duplicate Integer](./Data%20Structures%20%26%20Algorithms/find-duplicate-integer)
 *   [Find Minimum In Rotated Sorted Array](./Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array)

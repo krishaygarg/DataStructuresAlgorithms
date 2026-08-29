@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 112
+*   **Total Problems Solved**: 113
 
 ---
 
@@ -21,6 +21,7 @@ Data Structures & Algorithms/
 
 ## 🗺️ Solved Problems Index
 
+*   [Add Two Numbers](./Data%20Structures%20%26%20Algorithms/add-two-numbers)
 *   [Anagram Groups](./Data%20Structures%20%26%20Algorithms/anagram-groups)
 *   [Balanced Binary Tree](./Data%20Structures%20%26%20Algorithms/balanced-binary-tree)
 *   [Binary Search](./Data%20Structures%20%26%20Algorithms/binary-search)

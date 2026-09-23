@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 114
+*   **Total Problems Solved**: 115
 
 ---
 
@@ -125,6 +125,7 @@ Data Structures & Algorithms/
 *   [Subsets Ii](./Data%20Structures%20%26%20Algorithms/subsets-ii)
 *   [Subtree Of A Binary Tree](./Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree)
 *   [Surrounded Regions](./Data%20Structures%20%26%20Algorithms/surrounded-regions)
+*   [Swim In Rising Water](./Data%20Structures%20%26%20Algorithms/swim-in-rising-water)
 *   [Target Sum](./Data%20Structures%20%26%20Algorithms/target-sum)
 *   [Three Integer Sum](./Data%20Structures%20%26%20Algorithms/three-integer-sum)
 *   [Time Based Key Value Store](./Data%20Structures%20%26%20Algorithms/time-based-key-value-store)

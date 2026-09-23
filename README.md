@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 116
+*   **Total Problems Solved**: 117
 
 ---
 
@@ -110,6 +110,7 @@ Data Structures & Algorithms/
 *   [Plus One](./Data%20Structures%20%26%20Algorithms/plus-one)
 *   [Pow X N](./Data%20Structures%20%26%20Algorithms/pow-x-n)
 *   [Products Of Array Discluding Self](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self)
+*   [Redundant Connection](./Data%20Structures%20%26%20Algorithms/redundant-connection)
 *   [Remove Node From End Of Linked List](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list)
 *   [Reorder Linked List](./Data%20Structures%20%26%20Algorithms/reorder-linked-list)
 *   [Reverse Bits](./Data%20Structures%20%26%20Algorithms/reverse-bits)

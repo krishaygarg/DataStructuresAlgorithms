@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 115
+*   **Total Problems Solved**: 116
 
 ---
 
@@ -118,6 +118,7 @@ Data Structures & Algorithms/
 *   [Same Binary Tree](./Data%20Structures%20%26%20Algorithms/same-binary-tree)
 *   [Search 2d Matrix](./Data%20Structures%20%26%20Algorithms/search-2d-matrix)
 *   [Search For Word](./Data%20Structures%20%26%20Algorithms/search-for-word)
+*   [Serialize And Deserialize Binary Tree](./Data%20Structures%20%26%20Algorithms/serialize-and-deserialize-binary-tree)
 *   [Single Number](./Data%20Structures%20%26%20Algorithms/single-number)
 *   [Spiral Matrix](./Data%20Structures%20%26%20Algorithms/spiral-matrix)
 *   [String Encode And Decode](./Data%20Structures%20%26%20Algorithms/string-encode-and-decode)

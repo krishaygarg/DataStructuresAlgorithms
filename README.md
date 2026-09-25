@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 118
+*   **Total Problems Solved**: 119
 
 ---
 
@@ -78,6 +78,7 @@ Data Structures & Algorithms/
 *   [Linked List Cycle Detection](./Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection)
 *   [Longest Common Subsequence](./Data%20Structures%20%26%20Algorithms/longest-common-subsequence)
 *   [Longest Consecutive Sequence](./Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence)
+*   [Longest Increasing Path In Matrix](./Data%20Structures%20%26%20Algorithms/longest-increasing-path-in-matrix)
 *   [Longest Increasing Subsequence](./Data%20Structures%20%26%20Algorithms/longest-increasing-subsequence)
 *   [Longest Palindromic Substring](./Data%20Structures%20%26%20Algorithms/longest-palindromic-substring)
 *   [Longest Repeating Substring With Replacement](./Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement)

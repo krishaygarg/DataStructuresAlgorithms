@@ -5,7 +5,7 @@ A curated archive of solutions to classical data structures and algorithms probl
 ---
 
 ## 📈 Progress Tracker
-*   **Total Problems Solved**: 120
+*   **Total Problems Solved**: 121
 
 ---
 
@@ -102,6 +102,7 @@ Data Structures & Algorithms/
 *   [Network Delay Time](./Data%20Structures%20%26%20Algorithms/network-delay-time)
 *   [Non Cyclical Number](./Data%20Structures%20%26%20Algorithms/non-cyclical-number)
 *   [Non Overlapping Intervals](./Data%20Structures%20%26%20Algorithms/non-overlapping-intervals)
+*   [Number Of Enclaves](./Data%20Structures%20%26%20Algorithms/number-of-enclaves)
 *   [Number Of One Bits](./Data%20Structures%20%26%20Algorithms/number-of-one-bits)
 *   [Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold](./Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)
 *   [Pacific Atlantic Water Flow](./Data%20Structures%20%26%20Algorithms/pacific-atlantic-water-flow)
